@@ -16,13 +16,13 @@ You will find this is far easier than the opposite task of using CSS to cram you
 
 html, body {
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
-    font-size: 24px;
+    font-size: 18px;
     font-family: 'Roboto', Helvetica, sans-serif;
 }
 
 p {
     display: block;
-    margin: 10px 0;
+    margin: 0px 0;
 }
 
 .container {
